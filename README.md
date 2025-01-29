@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an out-of-bounds error when accessing a vector. The program attempts to access an element at an index that is beyond the vector's size, resulting in a runtime panic.  The solution demonstrates how to safely handle potential out-of-bounds errors using the `get` method and pattern matching.
